@@ -1,1 +1,6 @@
-*.class*.class*.class*.class*.class*.class*.class*.class
+.ideal/
+*.iml
+.idea/
+.vscode/
+out/
+*.class
