@@ -1,0 +1,5 @@
+.ideal/
+*.iml
+.idea/
+.vscode/
+out/
